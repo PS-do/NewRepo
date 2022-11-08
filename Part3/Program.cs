@@ -21,7 +21,7 @@
             C = Convert.ToDouble(Console.ReadLine());
 
             int N_Square = 0;
-            double L_A, L_B; //ntreofz dtkbxbyf pfvjotybz rdflhfnfvb d ljkm cjjndtncnde.otq cnjhjys
+            double L_A, L_B; //текущая величина замощения квадратами в доль соответствующей стороны
             int n_A, n_B;
             n_A = n_B = 0; //Кол-во квадратов вдоль соответствующей стороны
 
