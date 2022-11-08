@@ -29,8 +29,6 @@
             else if (N_negative < N_positive) Console.WriteLine("Положительных больше");
             else if (N_negative == N_positive) Console.WriteLine("Количество Положительных равно количеству отрицательных");
             Console.ReadKey();
-
-
         }
     }
 }
