@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "Lab4\LoopFor.csproj", "{BB17D250-C785-4766-814E-85D0245AB91C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopFor", "Lab4\LoopFor.csproj", "{BB17D250-C785-4766-814E-85D0245AB91C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopWhile", "LoopWhile\LoopWhile.csproj", "{7D64665D-4F5F-4DC3-95E8-495B1D169A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopWhile", "LoopWhile\LoopWhile.csproj", "{7D64665D-4F5F-4DC3-95E8-495B1D169A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDo", "LoopDo\LoopDo.csproj", "{243DA570-F423-430E-806A-4FC25DE50723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopDo", "LoopDo\LoopDo.csproj", "{243DA570-F423-430E-806A-4FC25DE50723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Обязательная задача", "Обязательная задача\Обязательная задача.csproj", "{8AD21077-1A2F-401F-9F29-3341ECB6AC90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Обязательная задача", "Обязательная задача\Обязательная задача.csproj", "{8AD21077-1A2F-401F-9F29-3341ECB6AC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part2", "Part2\Part2.csproj", "{A90D2B4D-6945-4C58-8679-335546963553}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8AD21077-1A2F-401F-9F29-3341ECB6AC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD21077-1A2F-401F-9F29-3341ECB6AC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD21077-1A2F-401F-9F29-3341ECB6AC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90D2B4D-6945-4C58-8679-335546963553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90D2B4D-6945-4C58-8679-335546963553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90D2B4D-6945-4C58-8679-335546963553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90D2B4D-6945-4C58-8679-335546963553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
